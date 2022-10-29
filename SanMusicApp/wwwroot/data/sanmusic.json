@@ -1,0 +1,752 @@
+[
+  {
+    "Id": "e1998d68-137f-4802-8ba7-da9616842e1f",
+    "Artist": "Metallica",
+    "Title": "Enter Sandman",
+    "ReleaseYear": 1991,
+    "LenghtInSeconds": 331,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Metallica_Live_at_The_O2%2C_London%2C_England%2C_22_October_2017_%28cropped%29.jpg/1280px-Metallica_Live_at_The_O2%2C_London%2C_England%2C_22_October_2017_%28cropped%29.jpg",
+    "Url": "https://www.youtube.com/watch?v=CD-E-LDc384",
+    "Genre": "Metal"
+  },
+  {
+    "Id": "d5ad3517-bba2-4078-822d-d0db4117275d",
+    "Artist": "Michael Jackson",
+    "Title": "Bad",
+    "ReleaseYear": 1987,
+    "LenghtInSeconds": 260,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Michael_Jackson_1984_%28enhanced%29.jpg",
+    "Url": "https://www.youtube.com/watch?v=dsUXAEzaC3Q",
+    "Genre": "Pop"
+  },
+  {
+    "Id": "46b18d13-d4cc-4a8f-8326-e579d7bf4ba6",
+    "Artist": "Queen",
+    "Title": "Bohemian Rhapsody",
+    "ReleaseYear": 1975,
+    "LenghtInSeconds": 360,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Queen_%E2%80%93_montagem_%E2%80%93_new.png/800px-Queen_%E2%80%93_montagem_%E2%80%93_new.png",
+    "Url": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ",
+    "Genre": "Rock"
+  },
+  {
+    "Id": "359148dd-c29d-4ca0-b1f5-597a70997d37",
+    "Artist": "Beethoven",
+    "Title": "V Symfonia",
+    "ReleaseYear": 1808,
+    "LenghtInSeconds": 2181,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Beethoven.jpg/800px-Beethoven.jpg",
+    "Url": "https://www.youtube.com/watch?v=fOk8Tm815lE",
+    "Genre": "Klasyczna"
+  },
+  {
+    "Id": "e9de3936-3e68-4ced-9344-3b28745d9ac3",
+    "Artist": "Nirvana",
+    "Title": "Come as you are",
+    "ReleaseYear": 1991,
+    "LenghtInSeconds": 225,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Nirvana_around_1992.jpg",
+    "Url": "https://www.youtube.com/watch?v=vabnZ9-ex7o",
+    "Genre": "Rock"
+  },
+  {
+    "Id": "868da1cc-75d3-49a8-b76e-5c26b7bcc42d",
+    "Artist": "Metallica",
+    "Title": "Master of Puppets",
+    "ReleaseYear": 1986,
+    "LenghtInSeconds": 515,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Metallica_Live_at_The_O2%2C_London%2C_England%2C_22_October_2017_%28cropped%29.jpg/1280px-Metallica_Live_at_The_O2%2C_London%2C_England%2C_22_October_2017_%28cropped%29.jpg",
+    "Url": "https://www.youtube.com/watch?v=E0ozmU9cJDg",
+    "Genre": "Metal"
+  },
+  {
+    "Id": "985f2828-6b0b-4180-a240-d32f78351ca2",
+    "Artist": "Led Zeppelin",
+    "Title": "Stairway to heaven",
+    "ReleaseYear": 1971,
+    "LenghtInSeconds": 482,
+    "Image": "https://upload.wikimedia.org/wikipedia/en/2/26/Led_Zeppelin_-_Led_Zeppelin_IV.jpg",
+    "Url": "https://www.youtube.com/watch?v=QkF3oxziUI4",
+    "Genre": "Rock"
+  },
+  {
+    "Id": "a4dd8f40-fddc-4027-ba08-3dce8a263d78",
+    "Artist": "Uriah heep",
+    "Title": "Lady in Black",
+    "ReleaseYear": 1970,
+    "LenghtInSeconds": 280,
+    "Image": "https://upload.wikimedia.org/wikipedia/en/e/e7/UriahHeepSalisburyUK.jpg",
+    "Url": "https://www.youtube.com/watch?v=bYZ2ftVIr0g",
+    "Genre": "Rock"
+  },
+  {
+    "Id": "75fd0511-5eb8-4ef5-86b0-30592708d964",
+    "Artist": "Black Sabbath",
+    "Title": "Paranoid",
+    "ReleaseYear": 1970,
+    "LenghtInSeconds": 171,
+    "Image": "https://upload.wikimedia.org/wikipedia/en/6/64/Black_Sabbath_-_Paranoid.jpg",
+    "Url": "https://www.youtube.com/watch?v=0qanF-91aJo",
+    "Genre": "Metal"
+  },
+  {
+    "Id": "68698322-e5e2-4387-aafe-a1c66714b574",
+    "Artist": "Deep Purple",
+    "Title": "Smoke on the Water",
+    "ReleaseYear": 1972,
+    "LenghtInSeconds": 384,
+    "Image": "https://upload.wikimedia.org/wikipedia/en/0/00/Machine_Head_album_cover.jpg",
+    "Url": "https://www.youtube.com/watch?v=eu5lv2Umn3M",
+    "Genre": "Rock"
+  },
+  {
+    "Id": "36a577f9-38e3-48f4-9db7-2d27f02a9d54",
+    "Artist": "Eminem",
+    "Title": "Lose Yourself",
+    "ReleaseYear": 2002,
+    "LenghtInSeconds": 328,
+    "Image": "https://pl.wikipedia.org/wiki/Eminem#/media/Plik:Eminem_live_at_D.C._2014_(cropped).jpg",
+    "Url": "https://youtu.be/xFYQQPAOz7Y",
+    "Genre": "Hip-hop"
+  },
+  {
+    "Id": "5e4505a6-4150-49ea-92f6-6ae000853517",
+    "Artist": "Coolio",
+    "Title": "Gangsta's Paradise",
+    "ReleaseYear": 1995,
+    "LenghtInSeconds": 241,
+    "Image": "https://pl.wikipedia.org/wiki/Coolio#/media/Plik:Coolio.jpg",
+    "Url": "https://www.youtube.com/watch?v=Tw0_qHNRAEA",
+    "Genre": "Hip-hop"
+  },
+  {
+    "Id": "ea8e214f-66f3-4ef7-90c2-cf12ca6959fd",
+    "Artist": "Rihanna",
+    "Title": "Pon de replay",
+    "ReleaseYear": 2005,
+    "LenghtInSeconds": 217,
+    "Image": "https://pl.wikipedia.org/wiki/Rihanna#/media/Plik:Rihanna_Fenty_2018.png",
+    "Url": "https://www.youtube.com/watch?v=oEauWw9ZGrA",
+    "Genre": "Pop"
+  },
+  {
+    "Id": "8bb37acd-a482-40f3-bcab-7e4aec308fdc",
+    "Artist": "Outkast",
+    "Title": "Ms. Jackson",
+    "ReleaseYear": 2000,
+    "LenghtInSeconds": 270,
+    "Image": "https://pl.wikipedia.org/wiki/Outkast#/media/Plik:OutKast_2001.jpg",
+    "Url": "https://www.youtube.com/watch?v=CSD2J8yaMmM",
+    "Genre": "Hip-hop"
+  },
+  {
+    "Id": "1f7b3edb-f199-46b0-877f-54200276c4ba",
+    "Artist": "Cher",
+    "Title": "Believe",
+    "ReleaseYear": 1998,
+    "LenghtInSeconds": 236,
+    "Image": "https://pl.wikipedia.org/wiki/Cher#/media/Plik:CherO2201019-43_(48933231397).jpg",
+    "Url": "https://www.youtube.com/watch?v=nZXRV4MezEw",
+    "Genre": "Pop"
+  },
+  {
+    "Id": "2c63d256-7cae-42ee-be29-5616ab819469",
+    "Artist": "Sidney Polak",
+    "Title": "Otwieram Wino",
+    "ReleaseYear": 2004,
+    "LenghtInSeconds": 248,
+    "Image": "https://pl.wikipedia.org/wiki/Sidney_Polak#/media/Plik:2019_-_Pol’and’Rock_-_Sidney_Polak_(10).jpg",
+    "Url": "https://www.youtube.com/watch?v=b16vSZMJ13k",
+    "Genre": "Reggae"
+  },
+  {
+    "Id": "5dda8bbe-7e53-4b00-b81c-1152f40ee50a",
+    "Artist": "Happysad",
+    "Title": "Zanim pójdę",
+    "ReleaseYear": 2004,
+    "LenghtInSeconds": 256,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Rocket_Festiwal_2013%2C_happysad_02.jpg",
+    "Url": "https://www.youtube.com/watch?v=W1jIuwYGIrU",
+    "Genre": "Rock"
+  },
+  {
+    "Id": "e177459a-2537-4fb5-99ea-1bbb14d22028",
+    "Artist": "Kombii",
+    "Title": "Pokolenie",
+    "ReleaseYear": 2004,
+    "LenghtInSeconds": 258,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Kombii_2016.jpg",
+    "Url": "https://www.youtube.com/watch?v=h7ES_rO9bFM",
+    "Genre": "Rock"
+  },
+  {
+    "Id": "d043945c-829f-4165-b706-ec2e6db0db75",
+    "Artist": "Golec uOrkiestra",
+    "Title": "Ściernisco",
+    "ReleaseYear": 2000,
+    "LenghtInSeconds": 218,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Golec_uOrkiestra_23.05.jpg",
+    "Url": "https://www.youtube.com/watch?v=yrJ_lzYGJdg",
+    "Genre": "Folk"
+  },
+  {
+    "Id": "eace845f-9309-4f27-b39f-5be70c745961",
+    "Artist": "Ich Troje",
+    "Title": "Zawsze Z Toba Chciałbym Byc",
+    "ReleaseYear": 2001,
+    "LenghtInSeconds": 227,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Ich_troje.jpg",
+    "Url": "https://www.youtube.com/watch?v=Wp57PXBB7Xg",
+    "Genre": "Pop"
+  },
+  {
+    "Id": "98b690ea-f946-48c5-abbb-af16a4c9ba22",
+    "Artist": "Agnieszka Chylińska",
+    "Title": "Jest nas więcej",
+    "ReleaseYear": 2022,
+    "LenghtInSeconds": 203,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Agnieszka_Chyli%C5%84ska%2C_Sopot_Top_of_the_Top_Festival_2022%2C_dzie%C5%84_2_04.jpg/1280px-Agnieszka_Chyli%C5%84ska%2C_Sopot_Top_of_the_Top_Festival_2022%2C_dzie%C5%84_2_04.jpg",
+    "Url": "https://www.youtube.com/watch?v=WWYZ6hJpQWk&list=LL&index=29",
+    "Genre": "Pop"
+  },
+  {
+    "Id": "02c663bf-1096-4d6b-bdef-979cfe56f655",
+    "Artist": "Dua Lipa",
+    "Title": "Electricity",
+    "ReleaseYear": 2018,
+    "LenghtInSeconds": 273,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/DuaLipaO2020522_%28101_of_110%29_%2852052470251%29_%28cropped%29.jpg/800px-DuaLipaO2020522_%28101_of_110%29_%2852052470251%29_%28cropped%29.jpg",
+    "Url": "https://www.youtube.com/watch?v=Q4-jOuHO-z4&list=LL&index=55",
+    "Genre": "Pop"
+  },
+  {
+    "Id": "0b870000-bf2a-4f0d-a7dd-2042d4b00b7c",
+    "Artist": "Example",
+    "Title": "Show Me How To Love",
+    "ReleaseYear": 2018,
+    "LenghtInSeconds": 244,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Elliot_John_Gleave_during_radio_interview.jpg",
+    "Url": "https://www.youtube.com/watch?v=jLTcHyuKAb0&list=LL&index=56",
+    "Genre": "Electro"
+  },
+  {
+    "Id": "f8079e52-e5c0-449a-9424-233eb1a4fedf",
+    "Artist": "Baranovski",
+    "Title": "Nie mamy nic",
+    "ReleaseYear": 2021,
+    "LenghtInSeconds": 230,
+    "Image": "https://cdn.galleries.smcloud.net/t/galleries/gf-S2Cy-BcNJ-wUxc_baranovski-z-najnowsza-piosenka-sam-teledysk-juz-w-sieci-664x442.jpg",
+    "Url": "https://www.youtube.com/watch?v=hN7Q75aNctw&list=LL&index=59",
+    "Genre": "Pop"
+  },
+  {
+    "Id": "0ad85661-a10b-4bc6-87eb-f52885785026",
+    "Artist": "Rudimental",
+    "Title": "Waiting All Night",
+    "ReleaseYear": 2013,
+    "LenghtInSeconds": 315,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Kylie_Speer_interviewing_Rudimental_in_2013.JPG",
+    "Url": "https://www.youtube.com/watch?v=M97vR2V4vTs&list=LL&index=76",
+    "Genre": "Pop"
+  },
+  {
+    "Id": "d5a23cde-b693-4fbb-8af4-61b10a041dd3",
+    "Artist": "Syn Cole",
+    "Title": "Follow Me",
+    "ReleaseYear": 2016,
+    "LenghtInSeconds": 181,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Image_de_Syn_cole.jpg",
+    "Url": "https://www.youtube.com/watch?v=O8Qp_5Y8mcc&ab_channel=SynColeVEVO",
+    "Genre": "Electro"
+  },
+  {
+    "Id": "9d165800-7f33-4372-8b3e-9fa0aa509780",
+    "Artist": "Caravan Palace",
+    "Title": "Lone Digger",
+    "ReleaseYear": 2015,
+    "LenghtInSeconds": 169,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Caravan_Palace_Ottawa_Bluesfest_2010.jpg",
+    "Url": "https://www.youtube.com/watch?v=UbQgXeY_zi4&ab_channel=CaravanPalace",
+    "Genre": "Electro"
+  },
+  {
+    "Id": "63ad0505-25d7-4869-a226-42a88dadc574",
+    "Artist": "Tritonal",
+    "Title": "Getaway",
+    "ReleaseYear": 2016,
+    "LenghtInSeconds": 226,
+    "Image": "https://en.wikipedia.org/wiki/Tritonal_(group)#/media/File:2013.03.25_-_Tritonal-179-Edit-Edit.jpg",
+    "Url": "https://www.youtube.com/watch?v=Vc8m6JLGgrc&ab_channel=Proximity",
+    "Genre": "Electro"
+  },
+  {
+    "Id": "a8bbf65c-3668-432b-9488-14ff5ea2e42c",
+    "Artist": "Avici",
+    "Title": "Without you",
+    "ReleaseYear": 2017,
+    "LenghtInSeconds": 183,
+    "Image": "https://en.wikipedia.org/wiki/Avicii#/media/File:Avicii_2014_003.jpg",
+    "Url": "https://www.youtube.com/watch?v=WRz2MxhAdJo&ab_channel=AviciiOfficialVEVO",
+    "Genre": "Electro"
+  },
+  {
+    "Id": "4ce3bc90-a77f-4db0-b4d0-3e4be9c7eab9",
+    "Artist": "Ray Parker Jr",
+    "Title": "Ghostbusters",
+    "ReleaseYear": 1984,
+    "LenghtInSeconds": 244,
+    "Image": "https://pl.wikipedia.org/wiki/Ray_Parker_Jr.#/media/Plik:RayParkerJr.-6797.jpg",
+    "Url": "https://www.youtube.com/watch?v=Fe93CLbHjxQ&ab_channel=RayParkerJuniorVEVO",
+    "Genre": "Pop"
+  },
+  {
+    "Id": "1cdc52ee-bb13-4f91-a904-c420adea983b",
+    "Artist": "Rammstein",
+    "Title": "Du Hast",
+    "ReleaseYear": 1999,
+    "LenghtInSeconds": 235,
+    "Image": "https://pl.wikipedia.org/wiki/Rammstein#/media/Plik:Rammstein_(5424600584).jpg",
+    "Url": "https://www.youtube.com/watch?v=W3q8Od5qJio&ab_channel=RammsteinOfficial",
+    "Genre": "Metal"
+  },
+  {
+    "Id": "9354a8b2-e673-439a-8083-46e40a772612",
+    "Artist": "The Cranberries",
+    "Title": "Animal Instinct",
+    "ReleaseYear": 1999,
+    "LenghtInSeconds": 226,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/2/23/The_Cranberries_en_Barcelona_8.jpg",
+    "Url": "https://www.youtube.com/watch?v=ky4CdN0x58A&ab_channel=TheCranberriesVEVO",
+    "Genre": "Rock"
+  },
+  {
+    "Id": "2014c85e-15b6-49e2-b869-3a8410cfa34b",
+    "Artist": "Tenacious D",
+    "Title": "Master Exploder",
+    "ReleaseYear": 2006,
+    "LenghtInSeconds": 144,
+    "Image": "https://en.wikipedia.org/wiki/File:Tenacious_D_-_Rock_am_Ring_2016_-2016155215305_2016-06-03_Rock_am_Ring_-_Sven_-_1D_X_MK_II_-_0802_-_AK8I0813_mod.jpg",
+    "Url": "https://www.youtube.com/watch?v=dDJj5l7kgqM&ab_channel=TenaciousD-Topic",
+    "Genre": "Rock"
+  },
+  {
+    "Id": "f8cc946d-8b4f-46a0-928a-5a0e4f083133",
+    "Artist": "Tenacious D",
+    "Title": "Tribute",
+    "ReleaseYear": 2001,
+    "LenghtInSeconds": 292,
+    "Image": "https://en.wikipedia.org/wiki/File:Tenacious_D_-_Rock_am_Ring_2016_-2016155215305_2016-06-03_Rock_am_Ring_-_Sven_-_1D_X_MK_II_-_0802_-_AK8I0813_mod.jpgg",
+    "Url": "https://www.youtube.com/watch?v=_lK4cX5xGiQ&ab_channel=tenaciousDVEVO",
+    "Genre": "Rock"
+  },
+  {
+    "Id": "46ebe663-c3ce-46e4-9ac6-7549e0ef51c9",
+    "Artist": "Tenacious D",
+    "Title": "Kickapoo",
+    "ReleaseYear": 2006,
+    "LenghtInSeconds": 254,
+    "Image": "https://en.wikipedia.org/wiki/File:Tenacious_D_-_Rock_am_Ring_2016_-2016155215305_2016-06-03_Rock_am_Ring_-_Sven_-_1D_X_MK_II_-_0802_-_AK8I0813_mod.jpg",
+    "Url": "https://www.youtube.com/watch?v=MHgzzkgQC0Y&ab_channel=TenaciousD-Topic",
+    "Genre": "Rock"
+  },
+  {
+    "Id": "0195b9b0-9cef-436d-856d-4cf38e15e1a5",
+    "Artist": "Gloria Jones",
+    "Title": "Tainted Love",
+    "ReleaseYear": 1982,
+    "LenghtInSeconds": 139,
+    "Image": "https://en.wikipedia.org/wiki/Gloria_Jones#/media/File:GloriaJones76.jpg",
+    "Url": "https://www.youtube.com/watch?v=OJKe2j9Wjh4&ab_channel=53jaybop",
+    "Genre": "R&B"
+  },
+  {
+    "Id": "ff27ad0c-86d6-4966-b774-08f31c8f3988",
+    "Artist": "Deathstars",
+    "Title": "Cyanide",
+    "ReleaseYear": 2005,
+    "LenghtInSeconds": 238,
+    "Image": "https://en.wikipedia.org/wiki/File:Deathstars_6_October_2006.jpg",
+    "Url": "https://www.youtube.com/watch?v=Ly-jMFFjIbM&ab_channel=NuclearBlastRecords",
+    "Genre": "Metal"
+  },
+  {
+    "Id": "d198ba4f-86b8-4667-ab8d-f89982dde604",
+    "Artist": "Elvis presley",
+    "Title": "A Little Less Conversation",
+    "ReleaseYear": 1968,
+    "LenghtInSeconds": 212,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Elvis_Presley_1970.jpg",
+    "Url": "https://www.youtube.com/watch?v=9fVF-FAaZDM&ab_channel=YOUMUSIC",
+    "Genre": "Rock"
+  },
+  {
+    "Id": "2a8dec62-f92e-46ce-903b-622a345e6f41",
+    "Artist": "Maanam",
+    "Title": "Smycz",
+    "ReleaseYear": 1997,
+    "LenghtInSeconds": 188,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Maanam_-_Kora.jpg",
+    "Url": "https://www.youtube.com/watch?v=52rBL2rqrag&ab_channel=Maanam",
+    "Genre": "Rock"
+  },
+  {
+    "Id": "d8023a07-f5e0-4531-8b9d-02ccf1885b22",
+    "Artist": "ZHU",
+    "Title": "Generationwhy",
+    "ReleaseYear": 2016,
+    "LenghtInSeconds": 233,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/7/70/ZHU_%2829357096668%29_%28cropped%29.jpg",
+    "Url": "https://www.youtube.com/watch?v=OrK6QxS_ZRk&ab_channel=ZHUVEVO",
+    "Genre": "House"
+  },
+  {
+    "Id": "f04e77d7-6cef-4a4d-b75d-4cae9f465270",
+    "Artist": "Mike Perry",
+    "Title": "Stay Young",
+    "ReleaseYear": 2017,
+    "LenghtInSeconds": 159,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Mike_Perry_%40_Lollapalooza_2017.jpg",
+    "Url": "https://www.youtube.com/watch?v=WJ7cI7heqac&ab_channel=TropicalHouseRecords",
+    "Genre": "House"
+  },
+  {
+    "Id": "889156c1-8dc6-4dc4-bc1f-6a1dba2ae274",
+    "Artist": "First Aid Kit",
+    "Title": "My Silver lining",
+    "ReleaseYear": 2014,
+    "LenghtInSeconds": 216,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Coachella18W1-208_%2842057786281%29.jpg",
+    "Url": "https://www.youtube.com/watch?v=sNNYtm2XJGc&ab_channel=nachtburrie",
+    "Genre": "Folk"
+  },
+  {
+    "Id": "0b7894d0-27ce-4336-8d94-de21afc218e8",
+    "Artist": "John Denver",
+    "Title": "Take Me Home Country Roads",
+    "ReleaseYear": 1971,
+    "LenghtInSeconds": 195,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/John_Denver_1975.JPG",
+    "Url": "https://www.youtube.com/watch?v=1vrEljMfXYo&ab_channel=JohnDenverVEVO",
+    "Genre": "Pop"
+  },
+  {
+    "Id": "872ca856-2d3b-4639-b999-70ea1136e061",
+    "Artist": "Kazik",
+    "Title": "Mars napada",
+    "ReleaseYear": 2000,
+    "LenghtInSeconds": 337,
+    "Image": "https://pl.wikipedia.org/wiki/Kazik_Staszewski#/media/Plik:Kult,_3-Maj%C3%B3wka_2022_02.jpg",
+    "Url": "https://www.youtube.com/watch?v=AHUOhNBSDaw&ab_channel=S.P.RECORDS",
+    "Genre": "Rock"
+  },
+  {
+    "Id": "734c7643-2e04-467c-97bf-ec57bc39bf09",
+    "Artist": "Tadeusz Woźniak",
+    "Title": "Zegarmistrz Światła",
+    "ReleaseYear": 1992,
+    "LenghtInSeconds": 317,
+    "Image": "https://pl.wikipedia.org/wiki/Plik:JRKRUK_20130525_TADEUSZ_WOZNIAK_IMG_8110.jpg",
+    "Url": "https://www.youtube.com/watch?v=A41PF4lUkrg&t=195s&ab_channel=JerzyTrojanowski",
+    "Genre": "Klasyczna"
+  },
+  {
+    "Id": "696fc222-efc3-4709-a2d3-db7b6971741d",
+    "Artist": "Iron Maiden",
+    "Title": "The Trooper",
+    "ReleaseYear": 1985,
+    "LenghtInSeconds": 263,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/IronMaidencollage2.jpg",
+    "Url": "https://www.youtube.com/watch?v=X4bgXH3sJ2Q",
+    "Genre": "Metal"
+  },
+  {
+    "Id": "cbc76bcc-75e2-4bcd-a610-40379a360607",
+    "Artist": "Sabaton",
+    "Title": "Ghost Division",
+    "ReleaseYear": 2008,
+    "LenghtInSeconds": 230,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Hellfest2017Sabaton_01.jpg",
+    "Url": "https://www.youtube.com/watch?v=ICfzQVh3lvs",
+    "Genre": "Metal"
+  },
+  {
+    "Id": "a285ff21-4d59-4c90-9aa6-227f6a031743",
+    "Artist": "Foo Fighters",
+    "Title": "The Pretender",
+    "ReleaseYear": 2007,
+    "LenghtInSeconds": 270,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/FoosLondonStad220618-124_%2842989552522%29.jpg",
+    "Url": "https://www.youtube.com/watch?v=SBjQ9tuuTJQ",
+    "Genre": "Rock"
+  },
+  {
+    "Id": "3004c2be-29a9-48ab-b2e2-fab33269e734",
+    "Artist": "Imagine Dragons",
+    "Title": "Thunder",
+    "ReleaseYear": 2017,
+    "LenghtInSeconds": 204,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Imagine_Dragons%2C_Roundhouse%2C_London_%2835390234536%29.jpg",
+    "Url": "https://www.youtube.com/watch?v=fKopy74weus",
+    "Genre": "Pop"
+  },
+  {
+    "Id": "07d8b108-8d36-4e8c-98b4-98266afa62c6",
+    "Artist": "ABBA",
+    "Title": "Dancing Quuen",
+    "ReleaseYear": 1976,
+    "LenghtInSeconds": 232,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/ABBA_-_TopPop_1974_5.png",
+    "Url": "https://www.youtube.com/watch?v=xFrGuyw1V8s",
+    "Genre": "Pop"
+  },
+  {
+    "Id": "04fb9938-f7bc-4f2e-bee1-1dda71839612",
+    "Artist": "Faith No More",
+    "Title": "Epic",
+    "ReleaseYear": 1989,
+    "LenghtInSeconds": 266,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Faith_No_More_2009.jpg",
+    "Url": "https://www.youtube.com/watch?v=ZG_k5CSYKhg",
+    "Genre": "Rock"
+  },
+  {
+    "Id": "e087bfcd-36a8-4dd4-b8e6-0f592220941d",
+    "Artist": "Guano Apes",
+    "Title": "Open your eyes",
+    "ReleaseYear": 1997,
+    "LenghtInSeconds": 190,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Guano_Apes_beim_Open_Flair_2015_%28035_by_Yellowcard%29.jpg/1920px-Guano_Apes_beim_Open_Flair_2015_%28035_by_Yellowcard%29.jpg",
+    "Url": "https://www.youtube.com/watch?v=UNo2-viKfW8",
+    "Genre": "Rock"
+  },
+  {
+    "Id": "089219ea-947d-4976-862a-924bcf5b07e1",
+    "Artist": "Offspring",
+    "Title": "Self Esteam",
+    "ReleaseYear": 1994,
+    "LenghtInSeconds": 265,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Offspringlive.jpg",
+    "Url": "https://www.youtube.com/watch?v=Abrn8aVQ76Q",
+    "Genre": "Rock"
+  },
+  {
+    "Id": "5f07d499-3be9-4ede-b7d5-4ebfc415fe7f",
+    "Artist": "Green Day",
+    "Title": "Basket Case",
+    "ReleaseYear": 1994,
+    "LenghtInSeconds": 193,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Green_day_Live_5_june_2013_in_Rome.JPG/1280px-Green_day_Live_5_june_2013_in_Rome.JPG",
+    "Url": "https://www.youtube.com/watch?v=NUTGr5t3MoY",
+    "Genre": "Rock"
+  },
+  {
+    "Id": "f4477cb4-a18c-4842-9257-771fb102e02d",
+    "Artist": "Ugly Kid Joe",
+    "Title": "Cats in the cradle",
+    "ReleaseYear": 1993,
+    "LenghtInSeconds": 255,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ugly_Kid_Joe_au_Hellfest_2022_%28cropped%29.jpg/1920px-Ugly_Kid_Joe_au_Hellfest_2022_%28cropped%29.jpg",
+    "Url": "https://www.youtube.com/watch?v=B32yjbCSVpU",
+    "Genre": "Rock"
+  },
+  {
+    "Id": "38ae0601-fe41-4d84-865e-e02f8de98b4a",
+    "Artist": "Eric Clapton",
+    "Title": "Tears in heaven",
+    "ReleaseYear": 1992,
+    "LenghtInSeconds": 274,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Eric_Clapton_-_Royal_Albert_Hall_-_Wednesday_24th_May_2017_EricClaptonRAH240517-30_%2834987232355%29_%28cropped%29.jpg/800px-Eric_Clapton_-_Royal_Albert_Hall_-_Wednesday_24th_May_2017_EricClaptonRAH240517-30_%2834987232355%29_%28cropped%29.jpg",
+    "Url": "https://www.youtube.com/watch?v=JxPj3GAYYZ0",
+    "Genre": "Rock"
+  },
+  {
+    "Id": "88766fcf-e866-4d28-bc0e-f28ce5887d13",
+    "Artist": "Pearl Jam",
+    "Title": "Alive",
+    "ReleaseYear": 1991,
+    "LenghtInSeconds": 295,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pearl_Jam_at_Madison_Square_Garden%2C_May_20%2C_2010_22.jpg/1280px-Pearl_Jam_at_Madison_Square_Garden%2C_May_20%2C_2010_22.jpg",
+    "Url": "https://www.youtube.com/watch?v=qM0zINtulhM",
+    "Genre": "Rock"
+  },
+  {
+    "Id": "375bddbd-1806-4d20-a327-5650a1e230a1",
+    "Artist": "Judas Priest",
+    "Title": "Breaking the law",
+    "ReleaseYear": 1980,
+    "LenghtInSeconds": 157,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Judas_Priest_-_Wacken_Open_Air_2018_01.jpg/1280px-Judas_Priest_-_Wacken_Open_Air_2018_01.jpg",
+    "Url": "https://www.youtube.com/watch?v=L397TWLwrUU",
+    "Genre": "Metal"
+  },
+  {
+    "Id": "5961fa94-310d-4471-baba-fa570f759b9b",
+    "Artist": "Pidżama Porno",
+    "Title": "Ezoteryczny Poznań",
+    "ReleaseYear": 1997,
+    "LenghtInSeconds": 265,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Pid%C5%BCama_Porno%2C_3-Maj%C3%B3wka_2022_32.jpg/1280px-Pid%C5%BCama_Porno%2C_3-Maj%C3%B3wka_2022_32.jpg",
+    "Url": "https://www.youtube.com/watch?v=SmFf_UEA0vo",
+    "Genre": "Rock"
+  },
+  {
+    "Id": "887da2a9-19b6-4677-a03e-6525917d2f63",
+    "Artist": "Kazik",
+    "Title": "Celina",
+    "ReleaseYear": 1994,
+    "LenghtInSeconds": 225,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kult%2C_3-Maj%C3%B3wka_2022_02.jpg/1280px-Kult%2C_3-Maj%C3%B3wka_2022_02.jpg",
+    "Url": "https://www.youtube.com/watch?v=MCcoN0-M_r4",
+    "Genre": "Rock"
+  },
+  {
+    "Id": "b795c4b2-3ba5-447d-a0b5-4430bfa00e49",
+    "Artist": "Manowar",
+    "Title": "Hail and Kill",
+    "ReleaseYear": 1988,
+    "LenghtInSeconds": 357,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Manowar_2016.jpg",
+    "Url": "https://youtu.be/T6zOT3IZ90U",
+    "Genre": "Metal"
+  },
+  {
+    "Id": "fdaebd6c-a496-447b-86a3-29fdde45fe9a",
+    "Artist": "Luxtorpeda",
+    "Title": "Autystyczny ",
+    "ReleaseYear": 2011,
+    "LenghtInSeconds": 230,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Rocket_Festiwal_2014_Luxtorpeda_3359.jpg/1280px-Rocket_Festiwal_2014_Luxtorpeda_3359.jpg",
+    "Url": "https://youtu.be/-hqbkY1-iLQ",
+    "Genre": "Rock"
+  },
+  {
+    "Id": "66dd6f41-7297-4271-8925-cb34efc33e38",
+    "Artist": "Pantera",
+    "Title": "Cowboys from hell",
+    "ReleaseYear": 1990,
+    "LenghtInSeconds": 247,
+    "Image": "https://upload.wikimedia.org/wikipedia/en/4/48/Panterapromo.jpg",
+    "Url": "https://youtu.be/i97OkCXwotE",
+    "Genre": "Metal"
+  },
+  {
+    "Id": "eb4cb2a4-12e4-40da-8c69-51a6ebb6cd5e",
+    "Artist": "The Cranberries",
+    "Title": "Zombie",
+    "ReleaseYear": 1994,
+    "LenghtInSeconds": 307,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Cranberries_Live_In_BCN_10_4_2012.JPG/1920px-Cranberries_Live_In_BCN_10_4_2012.JPG",
+    "Url": "https://youtu.be/6Ejga4kJUts",
+    "Genre": "Rock"
+  },
+  {
+    "Id": "54dde333-af2a-4646-b024-e194d0658463",
+    "Artist": "Metallica",
+    "Title": "Fuel",
+    "ReleaseYear": 1997,
+    "LenghtInSeconds": 277,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Metallica_Live_at_The_O2%2C_London%2C_England%2C_22_October_2017_%28cropped%29.jpg/1280px-Metallica_Live_at_The_O2%2C_London%2C_England%2C_22_October_2017_%28cropped%29.jpgg",
+    "Url": "https://youtu.be/PvF9PAxe5Ng",
+    "Genre": "Rock"
+  },
+  {
+    "Id": "a11e06f1-5abe-4fc5-92b1-59e830cf2b02",
+    "Artist": "Metallica",
+    "Title": "No Remorse",
+    "ReleaseYear": 1983,
+    "LenghtInSeconds": 326,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Metallica_Live_at_The_O2%2C_London%2C_England%2C_22_October_2017_%28cropped%29.jpg/1280px-Metallica_Live_at_The_O2%2C_London%2C_England%2C_22_October_2017_%28cropped%29.jpgg",
+    "Url": "https://youtu.be/4mB5H5lcymA",
+    "Genre": "Metal"
+  },
+  {
+    "Id": "9d8d69b2-dade-485b-9415-bd5973a3e382",
+    "Artist": "Daft Punk",
+    "Title": "Get Lucky",
+    "ReleaseYear": 2013,
+    "LenghtInSeconds": 248,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Daftpunklapremiere2010.jpg",
+    "Url": "https://www.youtube.com/watch?v=5NV6Rdv1a3I",
+    "Genre": "Funk"
+  },
+  {
+    "Id": "1007f492-7904-4bab-a86b-0a2f3e23b44a",
+    "Artist": "Megadeth",
+    "Title": "Holy Wars...The Punishment Due",
+    "ReleaseYear": 1990,
+    "LenghtInSeconds": 397,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Megadeth_Live_at_The_O2_2018-06-16.jpg/1280px-Megadeth_Live_at_The_O2_2018-06-16.jpg",
+    "Url": "https://youtu.be/9d4ui9q7eDM",
+    "Genre": "Metal"
+  },
+  {
+    "Id": "afece0fc-1659-482c-ad12-14d967f54ded",
+    "Artist": "Shakira",
+    "Title": "Whenever Wherever",
+    "ReleaseYear": 2001,
+    "LenghtInSeconds": 196,
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Shakira_for_VOGUE_in_2021_2.png",
+    "Url": "https://youtu.be/weRHyjj34ZE",
+    "Genre": "Pop"
+  },
+  {
+    "Id": "51f17b8f-8336-4019-9ff6-170efe0b06c5",
+    "Artist": "Black Sabbath",
+    "Title": "Anno Mundi",
+    "ReleaseYear": 1990,
+    "LenghtInSeconds": 370,
+    "Image": "https://upload.wikimedia.org/wikipedia/en/6/64/Black_Sabbath_-_Paranoid.jpg",
+    "Url": "https://www.youtube.com/watch?v=tLX9kvjAKdk",
+    "Genre": "Metal"
+  },
+  {
+    "Id": "5b73c85d-c998-452e-a4cf-a8fc317531e6",
+    "Artist": "Blind Guardian ",
+    "Title": "Mordred's Song",
+    "ReleaseYear": 1995,
+    "LenghtInSeconds": 328,
+    "Image": "https://commons.wikimedia.org/wiki/File:Blind_Guardian_Christmas_Bash_2016.jpg",
+    "Url": "https://www.youtube.com/watch?v=LDuyoC4WDSw",
+    "Genre": "Metal"
+  },
+  {
+    "Id": "0bd7b008-e167-4fe7-afcd-2e38746b6063",
+    "Artist": "Blind Guardian ",
+    "Title": "Nightfall",
+    "ReleaseYear": 1998,
+    "LenghtInSeconds": 335,
+    "Image": "https://commons.wikimedia.org/wiki/File:Blind_Guardian_Christmas_Bash_2016.jpg",
+    "Url": "https://www.youtube.com/watch?v=M0TcB5lxfuY",
+    "Genre": "Metal"
+  },
+  {
+    "Id": "807adad1-080a-414a-b4b6-b31c2a12ba39",
+    "Artist": "Małe TGD",
+    "Title": "Ukulele",
+    "ReleaseYear": 2019,
+    "LenghtInSeconds": 187,
+    "Image": "http://maletgd.pl/wp-content/themes/maletgd/images/plyta-okladka-wyspa-skarbow.png",
+    "Url": "https://www.youtube.com/watch?v=theV7DbihP4",
+    "Genre": "Gospel"
+  },
+  {
+    "Id": "475410a5-b5ad-450d-9919-6cf024a96516",
+    "Artist": "Olszakumpel",
+    "Title": "Big Belly Boy",
+    "ReleaseYear": 2022,
+    "LenghtInSeconds": 157,
+    "Image": "https://static-cdn.jtvnw.net/jtv_user_pictures/5153afca-5544-4a9a-af04-39c99084065d-profile_image-300x300.png",
+    "Url": "https://www.youtube.com/watch?v=Cv1odU4B3Bg",
+    "Genre": "Hip-hop"
+  },
+  {
+    "Id": "13da33b5-ec33-490d-88ac-531fc528ea5e",
+    "Artist": "Borgore",
+    "Title": "Way up",
+    "ReleaseYear": 2022,
+    "LenghtInSeconds": 212,
+    "Image": "https://geo-media.beatport.com/image_size/590x404/7674917e-aa5c-4504-82d6-d72d819a1350.jpg",
+    "Url": "https://www.youtube.com/watch?v=E0Uocq9fDbE",
+    "Genre": "Electro"
+  }
+]
