@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicDataCreator", "MusicDataCreator\MusicDataCreator.csproj", "{1AAA0FD8-3E81-478B-BC07-2DF4792B42D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusicDataCreator", "MusicDataCreator\MusicDataCreator.csproj", "{1AAA0FD8-3E81-478B-BC07-2DF4792B42D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanMusicCommon", "SanMusicCommon\SanMusicCommon.csproj", "{5ED18E79-CDF3-4E1B-8504-06C75E91A427}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SanMusicCommon", "SanMusicCommon\SanMusicCommon.csproj", "{5ED18E79-CDF3-4E1B-8504-06C75E91A427}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanMusicApp", "SanMusicApp\SanMusicApp.csproj", "{51B7F70D-02B2-4758-A297-3118940150AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SanMusicApp", "SanMusicApp\SanMusicApp.csproj", "{51B7F70D-02B2-4758-A297-3118940150AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
