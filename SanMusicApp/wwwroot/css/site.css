@@ -81,11 +81,12 @@ html, body {
 
 .catalog {
     display: flex;
-    border: 1px solid #6966DB;
-    border-radius: 10px;
     padding: 25px;
     min-height: 400px;
     width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 
@@ -127,4 +128,48 @@ html, body {
 .footer-right-text {
     text-align: right;
     font-size: 20px;
+}
+
+.song-tile {
+    height: 370px;
+    min-width: 280px;
+    min-height: 370px;
+    border: 1px solid #6966DB;
+    border-radius: 10px;
+    margin: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease-in 0.1s
+}
+
+.song-tile:hover {
+    transform: scale(1.05);
+}
+
+.song-image-container {
+    max-height: 280px;
+    padding: 30px;
+}
+
+.song-image {
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+}
+
+.song-details {
+    padding-top: 30px;
+    text-align: center!important;
+}
+
+
+.song-artist {
+    font-weight: 700;
+    font-size: 20px;
+    color: #6966DB;
+}
+
+
+
+.song-title {
+    padding-top: 10px;
 }

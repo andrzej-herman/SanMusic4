@@ -1,5 +1,19 @@
-﻿
+﻿<div class="song-tile">
+    @if (Song != null)
+    {
+        <div class="song-image-container">
+            <img class="song-image" src="@Song.Cover" alt="@Song.Title" />
+            <div class="song-details">
+                <div class="song-artist">@Song.Artist</div>
+                <div class="song-title">@Song.Title</div>
+            </div>
+        </div>
+    }
+</div>
 
 @code {
+
+    [Parameter]
+    public ShortSong Song { get; set; }
 
 }

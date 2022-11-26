@@ -13,4 +13,8 @@
     <PackageReference Include="Radzen.Blazor" Version="4.3.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SanMusicCommon\SanMusicCommon.csproj" />
+  </ItemGroup>
+
 </Project>
