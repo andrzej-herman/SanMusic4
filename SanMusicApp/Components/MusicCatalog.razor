@@ -1,12 +1,17 @@
 ﻿<div class="catalog-container">
     <div class="catalog-title">@Title</div>
     <div class="catalog">
-        <SongTile />
-        <SongTile />
-        <SongTile />
-        <SongTile />
-        <SongTile />
-        <SongTile />
+        @if (Songs.Any())
+        {
+            @foreach (var song in Songs)
+            {
+                <SongTile Song="@song" />
+            }
+        }
+        else
+        {
+            <p>Brak wyników wyszukiwania</p>
+        } 
     </div>
 </div>
 
@@ -15,4 +20,9 @@
 
     [Parameter]
     public string Title { get; set; }
+
+    [Parameter]
+    public List<ShortSong> Songs { get; set; } = new List<ShortSong>();
+
 }
+

@@ -1,9 +1,27 @@
 ﻿@page "/"
+
+@inject IMusicService Service
+
 <div class="page">
     <div class="container">
         <MusicHeader Title="San Music" />
-        <MusicSearch />
-        <MusicCatalog Title="Dzisiaj polecamy"/>
+        <MusicSearch/>
+        @if (SongsToDisplay != null)
+        {
+            <MusicCatalog Title="Dzisiaj polecamy" Songs="@SongsToDisplay" />
+        }
     </div>
     <MusicFooter />
 </div>
+
+
+@code {
+
+    public List<ShortSong> SongsToDisplay { get; set; }
+
+    protected override void OnInitialized()
+    {
+        SongsToDisplay = Service.GetRandomSongs().ToList();
+    }
+
+}

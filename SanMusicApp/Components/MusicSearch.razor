@@ -2,7 +2,7 @@
     <div class="music-search-inputs">
         <div class="music-search-top">
             <RadzenText class="music-label" TextStyle="TextStyle.Subtitle2" TagName="TagName.H3">Podaj artystę lub nazwę utworu</RadzenText>
-            <RadzenTextBox Class="w-100" />
+            <RadzenTextBox Class="w-100" @bind-Value="@Phrase" />
         </div>
         <div class="music-search-bottom">
             <div class="music-search-01">
@@ -21,15 +21,22 @@
     </div>
     <div class="music-search-button">
         <RadzenButton 
+            Click="Test"
             Shade="Shade.Light"  
             Text="Szukaj" 
             ButtonStyle="ButtonStyle.Primary" 
             class="music-button"/>
     </div>
-
 </div>
 
 @code {
+
+    private string Phrase { get; set; }
+
+    private void Test()
+    {
+        var t = Phrase;
+    }
 
 }
 

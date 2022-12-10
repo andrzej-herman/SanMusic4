@@ -7,7 +7,7 @@ namespace SanMusicApp.MusicLogic
         IEnumerable<ShortSong> GetRandomSongs();
         IEnumerable<ShortSong> SearchByTitleOrArtist(string pharase);
         IEnumerable<ShortSong> GetSongsByCategory(string category);
-        IEnumerable<ShortSong> GetSongsLength(int min, int max);
+        IEnumerable<ShortSong> GetSongsByLength(int min, int max);
         IEnumerable<string> GetCategories();
         Song GetSongById(string id);
     }
